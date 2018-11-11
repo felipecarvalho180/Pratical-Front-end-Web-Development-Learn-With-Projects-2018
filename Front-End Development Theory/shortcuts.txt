@@ -1,0 +1,18 @@
+To enter the chrome console:
+
+Ctrl + Shift + I (Windows)
+Command + Option + I (Mac)
+
+To see the website's source code:
+
+Ctrl + U (Windows)
+
+Command + U (Mac)
+
+To enter the design mode (type inside the chrome console):
+
+document.designMode = "on";
+
+To exit the design mode (type inside the chrome console):
+
+document.designMode = "off";
